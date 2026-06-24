@@ -1,0 +1,49 @@
+{
+  "creators": [
+    {
+      "name": "Qiao, Qi",
+      "affiliation": "Tianjin University of Science and Technology",
+      "orcid": ""
+    },
+    {
+      "name": "Zhang, Jian",
+      "affiliation": "National Marine Data and Information Service",
+      "orcid": ""
+    },
+    {
+      "name": "Yang, Zixin",
+      "affiliation": "Tianjin University of Science and Technology",
+      "orcid": ""
+    },
+    {
+      "name": "Zhang, Zichen",
+      "affiliation": "Tianjin University of Science and Technology",
+      "orcid": ""
+    },
+    {
+      "name": "Guo, Shujin",
+      "affiliation": "Institute of Oceanology, Chinese Academy of Sciences",
+      "orcid": ""
+    },
+    {
+      "name": "Liu, Haijiao",
+      "affiliation": "Tianjin University of Science and Technology",
+      "orcid": ""
+    }
+  ],
+  "title": "Code and Data for: Warming and Altered Nutrient Stoichiometry Drive Phytoplankton Miniaturization: A 20-Year Study in Bohai Bay, China",
+  "description": "R scripts and input data files supporting the phytoplankton community analysis in Bohai Bay (2000-2020). Includes raw species-by-station abundance matrix (189 species x 303 stations), environmental time series, and analytical code for all figures and statistical models.",
+  "keywords": [
+    "phytoplankton community",
+    "miniaturization",
+    "Bohai Bay",
+    "nutrient stoichiometry",
+    "climate warming",
+    "SHAP analysis",
+    "long-term ecological data"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "eng"
+}
